@@ -1,2 +1,2 @@
 # vsCodeGitExample
-trying vscode and github
+trying vscode and github and making some changes
